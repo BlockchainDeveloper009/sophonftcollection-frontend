@@ -579,5 +579,8 @@ export const abi =[{
     "stateMutability": "payable",
     "type": "receive"
   }]
+  //aug-17-2022 : 18.42pm - poly Mumbai crpto devnets
+export const NFT_CONTRACT_ADDRESS = "0xf0d5097130C34bD65d53B59E077a6B94fd3Cf26D"
+
 //aug-17-2022 : poly Mumbai crpto devnets
-export const NFT_CONTRACT_ADDRESS = "0x98e08f988b128dc11D504B5979db6064C7e033B2"
+//export const NFT_CONTRACT_ADDRESS = "0x98e08f988b128dc11D504B5979db6064C7e033B2"
